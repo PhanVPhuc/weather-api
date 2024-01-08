@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `npm react-accessible-accordion` a library that helps you create accordion components in React.
+
+To know more or dive deeper into it => [https://www.npmjs.com/package/react-accessible-accordion]
+
+### `npm i react-select-async-paginate` a library that enhances the functionality of the React Select library by adding support for asynchronous loading and pagination of options.
+
+Get more information about this lib => [https://www.npmjs.com/package/react-select-async-paginate]
