@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="container w-max ">
-      <h1 className="w-1/4 ">Greeting</h1>{" "}
+      {/* <h1 className="w-1/4 justify-center ">Greeting</h1>{" "} */}
       <Search onSearchChange={handleOnSearchChange} />
     </div>
   );
